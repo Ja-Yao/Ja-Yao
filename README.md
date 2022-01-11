@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ja-Yao!
 - 👀 I’m interested in coding, gaming, and music
 - 🌱 I’m currently studying Computer Engineering @ Northeastern University
-- 💻 I'm learning Python, ReactJS, and SQL at the moment
+- 💻 Current skills include: React, JS, TS
 - 📫 How to reach me: yao.ja@northeastern.edu
 
 <!---
